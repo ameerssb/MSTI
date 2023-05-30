@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-4ip85id#73)u6koe1i%@-_a**&b^r4#ezpv=ahp)cwhxbjsei)
 #SECRET_KEY = os.environ['SECRET_KEY']
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 #DEBUG = os.environ['DEBUG']
 
 ALLOWED_HOSTS = ["127.0.0.1","env-MSTI.eba-mnmfdfey.us-west-2.elasticbeanstalk.com"]
